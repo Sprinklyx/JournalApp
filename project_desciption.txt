@@ -1,0 +1,21 @@
+
+
+
+
+What is this project?
+    I want to use python [and whatever I need for frontend] to make a journaling app. 
+
+Reasoning...
+    When I was searching for a mobile app, I had a specific vision in mind. A simple app, locally 
+    hosted (with export capabilities). 
+
+Design 
+#Simple, Lightweight, 
+    The user enters the app by inputting a PIN or password. 
+    The app scrolls down to the most recent entry. 
+    The user clicks on the new page and can begin typing right away.
+    Or the user can scroll up and see past entries.
+    When starting a new entry, common font can be chosen. 
+        Text size, bold, italic, etc can be chosen.
+
+
