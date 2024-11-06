@@ -1,7 +1,4 @@
-#test.py
 
 
-def conversion_eqs():
-    print("hello")
-
-conversion_eqs() 
+if __name__ == "__main__":
+    print()
